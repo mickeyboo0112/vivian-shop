@@ -1,1 +1,1 @@
-# vivian-shop
+# vivian-store
